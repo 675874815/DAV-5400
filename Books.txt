@@ -1,1 +1,0 @@
-[{"title": "Gone with the Wind", "authors": "Margaret Mitchell", "words": 800000, "publication time": 1930}]
