@@ -1,3 +1,3 @@
 [{"title": "Gone with the Wind", "authors": "Margaret Mitchell", "words": 800000, "publication time": 1930}, 
-{"title": "Dream of the Red Chamber", "authors": ["Xueqin Cao", "Anonymous"], "words": 960000, "publication time": 1791},
+{"title": "Dream of the Red Chamber", "authors": "Xueqin Cao", "Anonymous", "words": 960000, "publication time": 1791},
 {"title": "War and Peace", "authors": "Lev Nikolaevich Tolstoy", "words": 1094000, "publication time": 1869}]
